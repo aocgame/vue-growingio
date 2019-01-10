@@ -1,0 +1,36 @@
+{
+  "name": "vue-growingio",
+  "version": "1.0.2",
+  "description": "growingio vue module",
+  "author": "winny<aocgame001@gmail.com>",
+  "main": "dist/growingio.common.js",
+  "license": "MIT",
+  "keywords": [
+    "statistics",
+    "vue-plugin",
+    "growingio",
+    "growing-io",
+    ""
+  ],
+  "private": false,
+  "scripts": {
+    "build-lib": "vue-cli-service build --target lib --name growingio ./src/index.js"
+  },
+  "dependencies": {
+    "vue": "^2.5.21"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.3.0",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
