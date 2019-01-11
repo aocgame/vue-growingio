@@ -24,7 +24,6 @@ Vue.use(growingio, options)
 | 参数 | 必输 | 默认 | 说明 | 备注 |
 |-----|------|-----|-----|------|
 | siteId | 是 | | 绑定要接受API请求的统计代码siteid| |
-| config | 否 | | 若是路由模式为hash，需要加上 {hashtag: true}| |
 
 ## 2. growingio API
 
