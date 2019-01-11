@@ -1,4 +1,4 @@
-# vue-growingio
+# [vue-growingio](https://github.com/aocgame/vue-growingio)
 
 > vuejs growingio埋点插件
 

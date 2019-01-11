@@ -1,6 +1,6 @@
 {
   "name": "vue-growingio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "growingio vue module",
   "author": "winny<aocgame001@gmail.com>",
   "main": "dist/growingio.common.js",
