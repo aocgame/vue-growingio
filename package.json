@@ -1,6 +1,6 @@
 {
   "name": "vue-growingio",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "growingio vue module",
   "author": "winny<aocgame001@gmail.com>",
   "main": "dist/growingio.common.js",
@@ -31,8 +31,6 @@
   "browserslist": [
     "> 1%",
     "last 2 versions",
-    "not ie <= 8",
-    "iOS >= 8",
-    "Android >= 4.4"
+    "not ie <= 8"
   ]
 }
