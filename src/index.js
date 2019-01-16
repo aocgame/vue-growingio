@@ -1,11 +1,11 @@
 import install from './install'
 
-const deferred = {}
+var deferred = {}
 deferred.promise = new Promise((resolve, reject) => {
   deferred.resolve = resolve
   deferred.reject = reject
 })
-const gio = {
+var gio = {
   /**
   * internal user only
   */
