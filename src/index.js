@@ -1,7 +1,7 @@
 import install from './install'
 
-var deferred = {}
-deferred.promise = new Promise((resolve, reject) => {
+var deferred = {};
+deferred.promise = new Promise(function(resolve, reject) {
   deferred.resolve = resolve
   deferred.reject = reject
 })
